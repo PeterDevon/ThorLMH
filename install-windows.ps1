@@ -12,3 +12,7 @@ Write-Output "Installing Winget..."
 Add-AppxPackage -Path $outputFile
 
 Write-Output "✅ Winget installation complete!"
+
+winget install Ollama.Ollama
+
+python main.py
