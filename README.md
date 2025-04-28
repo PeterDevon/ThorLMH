@@ -23,3 +23,7 @@ please run this:
 Set-ExecutionPolicy Bypass -Scope Process -Force
 ./install-winget.ps1
 
+# Donate:
+Please kindly consider
+Bitcoin: 1E5SVrJfaAvVdRTSXkHsgx2BG8SebXfatS
+
