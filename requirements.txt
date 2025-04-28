@@ -1,0 +1,8 @@
+torch
+transformers
+ollama
+SpeechRecognition
+pyttsx3
+pyaudio
+customtkinter
+easygui
